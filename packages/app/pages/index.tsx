@@ -40,10 +40,10 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container} id="root">
       <Head>
-        <title>Lock GNO</title>
+        <title>Lock DFI1</title>
         <meta
           name="description"
-          content="Qualify for a $COW airdrop boost by locking your GNO for 12 months"
+          content="Govern the omni-chain swap protocol built for the post quantum era."
         />
         {!isProd && <meta name="robots" content="noindex" />}
         <link rel="icon" href="/favicon.ico" />
@@ -160,11 +160,11 @@ const Home: NextPage = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Built by Gnosis Guild{" "}
+              DeFi ONE by {" "}
               <span className={styles.logo}>
                 <img
-                  src="/gnosisguild.png"
-                  alt="Gnosis Guild"
+                  src="/qlogo.svg"
+                  alt="quantum-one-logo"
                   width={32}
                   height={32}
                 />
