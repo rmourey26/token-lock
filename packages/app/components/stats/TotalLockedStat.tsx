@@ -11,7 +11,7 @@ const TotalLockedStat: React.FC = () => {
   return (
     <div className={`${cls.item} ${cls.fullWidth}`}>
       <dt>
-        <div className={cls.label}>Total GNO Locked</div>
+        <div className={cls.label}>Total DFI1 Locked</div>
         <TotalLockedBreakdown />
       </dt>
       <dd>{totalLocked ? formatToken(totalLocked, config.decimals) : "…"}</dd>
