@@ -4,13 +4,12 @@ import classes from "./UseGnoBanner.module.css"
 
 const UseGNOBanner = () => {
   return (
-    <a href="https://ecosystem.gnosischain.com/" className={classes.cardLink}>
+    <a href="https://defione.io/" className={classes.cardLink}>
       <Card className={classes.card}>
-        <img src="/gnochainfuture.png" alt="an imagined solarpunk future" />
-        <h2>Not sure where to use your GNO?</h2>
+        <img src="/twitter-image.jpg" alt="blockchain business" />
+        <h2>Not sure where to use your DFI1?</h2>
         <p>
-          Click here to explore all the valuable uses on Gnosis Chain and
-          Ethereum
+          Click here to see a preview of DeFi ONE, the omni-chain digital asset exchange platform. 
         </p>
       </Card>
     </a>
