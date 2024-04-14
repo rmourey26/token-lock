@@ -6,7 +6,7 @@ import {
   Connect,
   ConnectHint,
   GnosisLogo,
-  QoLogo,
+  QoneLogo,
   LockedGnoLogo,
   LockedBalance,
   useTokenLockConfig,
@@ -50,7 +50,7 @@ const Home: NextPage = () => {
       </Head>
 
       <header className={styles.header}>
-        <QoLogo />
+        <QoneLogo />
         <LockedGnoLogo locked={lockPeriodOngoing} />
         <Connect />
       </header>
