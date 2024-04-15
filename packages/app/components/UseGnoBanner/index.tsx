@@ -6,7 +6,7 @@ const UseGNOBanner = () => {
   return (
     <a href="https://defione.io/" className={classes.cardLink}>
       <Card className={classes.card}>
-        <img src="/qlogo.svg" alt="quantum one logo" />
+        <img src="/qlogo-invert.svg" alt="quantum one logo" />
         <h2>Not sure where to use your DFI1?</h2>
         <p>
           Click here to see a preview of DeFi ONE, the omni-chain digital asset exchange platform. 
