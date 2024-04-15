@@ -84,7 +84,7 @@ const Home: NextPage = () => {
       <footer className={styles.footer}>
         <div className={styles.footerContainer}>
           <div className={styles.left}>
-            <span>LGNO contract: </span>
+            <span>DFI1 contract: </span>
             {connectedChainId === 100 ? (
               <a
                 href="https://blockscout.com/xdai/mainnet/address/0xd4Ca39f78Bf14BfaB75226AC833b1858dB16f9a1"
