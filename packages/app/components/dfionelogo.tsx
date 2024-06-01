@@ -4,7 +4,7 @@ const QoneLogo: React.FC = () => (
   <div className={cls.container}>
     <img
       className={cls.logo}
-      src="/qlogo.svg"
+      src="/dfi1-fill.svg"
       alt="DFI1 Logo"
       height={36}
       width={36}
