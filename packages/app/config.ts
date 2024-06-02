@@ -1,10 +1,10 @@
 
 import { Chain, mainnet, gnosis, goerli } from "wagmi/chains"
 
-export const LOCKED_TOKEN_NAME = "Da-Fi Token"
-export const LOCKED_TOKEN_SYMBOL = "Da-Fi"
-export const CLAIM_TOKEN_NAME = "Locked Da-Fi"
-export const CLAIM_TOKEN_SYMBOL = "LDFI"
+export const LOCKED_TOKEN_NAME = "Gnosis"
+export const LOCKED_TOKEN_SYMBOL = "GNO"
+export const CLAIM_TOKEN_NAME = "Locked Gnosis"
+export const CLAIM_TOKEN_SYMBOL = "LGNO"
 
 // used for price lookup
 export const COINGECKO_TOKEN_ID = "da-fi"
@@ -13,7 +13,7 @@ export const CHAINS = [mainnet, gnosis, goerli] as Chain[]
 
 export const CONTRACT_ADDRESSES: { [chainId: number]: string } = {
  1:
-"0xeaaD65885fEA47a3B1258935f4Ce83aaB06FDD3A", 
+"0x4f8AD938eBA0CD19155a835f617317a6E788c868", 
 100: "0xd4Ca39f78Bf14BfaB75226AC833b1858dB16f9a1",
   5: "0xCfDf830D59cbb30197b78dB578066F6AbD8e4b3b", //"0xB5d2b6cD4b0417D566593B42B21F2316FDCCB5FA",
 
