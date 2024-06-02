@@ -9,7 +9,7 @@ const UseGNOBanner = () => {
         <img src="/qlogo-invert.svg" alt="quantum one logo" />
         <h2>This is not yet connected to our token contracts.</h2>
         <p>
-          Click here to learn about DFI1's quantum inspired AI protocol. 
+          Click here to learn about DFI1 and its quantum inspired AI protocol. 
         </p>
       </Card>
     </a>
