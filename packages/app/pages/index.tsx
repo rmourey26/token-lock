@@ -94,7 +94,7 @@ const Home: NextPage = () => {
               >
                 <img
                   src="/etherscan.svg"
-                  alt="View contract on Gnosis Chain Blockscout"
+                  alt="View contract on Blockscout"
                   width={16}
                   height={16}
                 />
