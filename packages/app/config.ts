@@ -7,7 +7,7 @@ export const CLAIM_TOKEN_NAME = "Locked Gnosis"
 export const CLAIM_TOKEN_SYMBOL = "LGNO"
 
 // used for price lookup
-export const COINGECKO_TOKEN_ID = "da-fi"
+export const COINGECKO_TOKEN_ID = "gnosis"
 
 export const CHAINS = [mainnet, gnosis, goerli] as Chain[]
 
