@@ -7,9 +7,9 @@ const UseGNOBanner = () => {
     <a href="https://defione.io/" className={classes.cardLink}>
       <Card className={classes.card}>
         <img src="/qlogo-invert.svg" alt="quantum one logo" />
-        <h2>Not sure where to use your DFI1?</h2>
+        <h2>This is not yet connected to our token contracts.</h2>
         <p>
-          Click here to see a preview of DeFi ONE, the omni-chain digital asset exchange platform. 
+          Click here to learn about DFI1's quantum inspired AI protocol. 
         </p>
       </Card>
     </a>
