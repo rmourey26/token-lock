@@ -12,6 +12,7 @@ export const CHAINS = [mainnet, gnosis, goerli] as Chain[]
 
 export const CONTRACT_ADDRESSES: { [chainId: number]: string } = {
   1: "0x4f8AD938eBA0CD19155a835f617317a6E788c868",
+ 1:
 "0xeaaD65885fEA47a3B1258935f4Ce83aaB06FDD3A", 
 100: "0xd4Ca39f78Bf14BfaB75226AC833b1858dB16f9a1",
   5: "0xCfDf830D59cbb30197b78dB578066F6AbD8e4b3b", //"0xB5d2b6cD4b0417D566593B42B21F2316FDCCB5FA",
