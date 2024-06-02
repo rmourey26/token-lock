@@ -11,7 +11,6 @@ export const COINGECKO_TOKEN_ID = "da-fi"
 export const CHAINS = [mainnet, gnosis, goerli] as Chain[]
 
 export const CONTRACT_ADDRESSES: { [chainId: number]: string } = {
-  1: "0x4f8AD938eBA0CD19155a835f617317a6E788c868",
  1:
 "0xeaaD65885fEA47a3B1258935f4Ce83aaB06FDD3A", 
 100: "0xd4Ca39f78Bf14BfaB75226AC833b1858dB16f9a1",
