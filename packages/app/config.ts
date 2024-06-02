@@ -1,6 +1,7 @@
+
 import { Chain, mainnet, gnosis, goerli } from "wagmi/chains"
 
-export const LOCKED_TOKEN_NAME = "Da-Fi"
+export const LOCKED_TOKEN_NAME = "Da-Fi Token"
 export const LOCKED_TOKEN_SYMBOL = "Da-Fi"
 export const CLAIM_TOKEN_NAME = "Locked Da-Fi"
 export const CLAIM_TOKEN_SYMBOL = "LDFI"
