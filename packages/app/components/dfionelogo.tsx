@@ -1,6 +1,6 @@
 import cls from "./GnosisLogo.module.css"
 
-const QoneLogo: React.FC = () => (
+const Dfionelogo: React.FC = () => (
   <div className={cls.container}>
     <img
       className={cls.logo}
