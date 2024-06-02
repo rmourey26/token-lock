@@ -88,7 +88,7 @@ const Home: NextPage = () => {
             <span>DFI1 contract: </span>
             {connectedChainId === 100 ? (
               <a
-                href="https://blockscout.com/xdai/mainnet/address/0xd4Ca39f78Bf14BfaB75226AC833b1858dB16f9a1"
+                href="https://eth.blockscout.com/token/0xeaaD65885fEA47a3B1258935f4Ce83aaB06FDD3A"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -101,7 +101,7 @@ const Home: NextPage = () => {
               </a>
             ) : (
               <a
-                href="https://etherscan.io/address/0x4f8AD938eBA0CD19155a835f617317a6E788c868"
+                href="https://etherscan.io/token/0xeaad65885fea47a3b1258935f4ce83aab06fdd3a"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -115,7 +115,7 @@ const Home: NextPage = () => {
             )}
 
             <a
-              href="https://github.com/gnosis/token-lock/blob/master/packages/contracts/contracts/TokenLock.sol"
+              href="https://github.com/rmourey26/token-lock/blob/master/packages/contracts/contracts/TokenLock.sol"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -129,7 +129,7 @@ const Home: NextPage = () => {
           </div>
           <div className={styles.right}>
             <a
-              href="https://discord.com/invite/gnosischain"
+              href="https://discord.com/invite/dDDYuaP8d2"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -141,13 +141,13 @@ const Home: NextPage = () => {
               />
             </a>
             <a
-              href="https://twitter.com/gnosisguild"
+              href="https://x.com/dfione"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
                 src="/twittericon.svg"
-                alt="Gnosis Guild Twitter"
+                alt="Dfione X"
                 width={16}
                 height={16}
               />
@@ -157,11 +157,11 @@ const Home: NextPage = () => {
 
             <a
               className={styles.gg}
-              href="https://gnosisguild.mirror.xyz"
+              href="https://quantumone.io"
               target="_blank"
               rel="noopener noreferrer"
             >
-              DeFi ONE by {" "}
+              DFI1 by {" "}
               <span className={styles.logo}>
                 <img
                   src="/qlogo.svg"
